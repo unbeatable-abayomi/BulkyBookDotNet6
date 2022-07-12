@@ -8,5 +8,6 @@ namespace BulkyBook.DataAccess.Repository.IRepository
 {
     public interface IRepository<T> where T : class
     {
+        //T - Category
     }
 }
